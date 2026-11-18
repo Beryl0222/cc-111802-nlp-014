@@ -5,7 +5,10 @@
     "revision": 1,
     "observed_at": "2026-11-18T09:00:00Z",
     "text": "课堂反馈情绪复核台需要保留反馈信号和原文依据。",
-    "context": "教研演练"
+    "context": "教研演练",
+    "course_id": "course-demo",
+    "class_id": "class-demo",
+    "authorized_reviewers": ["teacher-demo"]
   },
   {
     "record_id": "student-feedback-sentiment-lesson-b",
@@ -13,6 +16,9 @@
     "revision": 1,
     "observed_at": "2026-11-18T09:05:00Z",
     "text": "教师复核反馈信号时应查看课程语境。",
-    "context": "课堂练习"
+    "context": "课堂练习",
+    "course_id": "course-demo",
+    "class_id": "class-demo",
+    "authorized_reviewers": ["teacher-demo"]
   }
 ]
